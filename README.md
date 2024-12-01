@@ -16,8 +16,8 @@ This project generates Ethereum wallets from a seed phrase, checks their ERC-20 
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/pbrudny/qom-token-finder.git
+cd qom-token-finder
 ```
 
 ### 2. Create a Virtual Environment
