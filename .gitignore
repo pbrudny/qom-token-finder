@@ -1,0 +1,20 @@
+# Python files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder
+venv/
+
+# Environment variables
+.env
+
+# CSV output
+filtered_wallets.csv
+
+# macOS files
+.DS_Store
+
+# Other OS files
+Thumbs.db
